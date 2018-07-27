@@ -36,5 +36,7 @@ FieldText=TERMEXACT{help,helped}:DRETITLE
 - A document's DRETITLE field value must contain the term help or helped for this document to be returned. 
 - If a document's DRETITLE field, for example, has the value helps or helping, the document is not returned.
 
-[IDOL Server 11.1 Reference]: http://h30359.www3.hpe.com/online_help/IDOL/Servers/IDOL%20Server/11.1/Help/index.html#Actions/Field%20Specifiers/_IDOL_TERMEXACT.htm?Highlight=termexact	"IDOL Server 11.1 Reference"
+[IDOL Server 11.1 Reference]: http://h30359.www3.hpe.com/online_help/IDOL/Servers/IDOL%20Server/11.1/Help/index.html#Actions/Field%20Specifiers/_IDOL_TERMEXACT.htm?Highlight=termexact
+
+
 
