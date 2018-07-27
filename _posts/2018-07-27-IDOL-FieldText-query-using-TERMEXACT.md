@@ -29,7 +29,7 @@ FieldText=TERMEXACT{yourTerms}:yourFields
 
 **Note:** To distinguish query syntax punctuation from punctuation within strings,  double-percent-encode commas and curly braces within strings. Query  syntax punctuation must be left unencoded. There must be no space before or after a separator comma. 
 
-###Example
+### Example
 
 FieldText=TERMEXACT{help,helped}:DRETITLE
 
